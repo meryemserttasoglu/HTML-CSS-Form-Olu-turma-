@@ -1,2 +1,2 @@
-# HTML-CSS-Form-Olu-turma-
+# HTML-CSS-Form-Olusturma
 HTML-CSS Form Oluşturma
